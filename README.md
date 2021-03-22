@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Algure
 - 👀 I’m interested in mobile applications and algorithms.
-- 🌱 I’m currently learning serverless applications development on azure with Java and C#.
+- 🌱 I’m currently learning serverless application development on azure with Java and C# on azure.
 - 💞️ I’m looking to collaborate on any mobile application.
 - 📫 How to reach me: ajirie98@gmail.com.
 
