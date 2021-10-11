@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Algure
 - 👀 I’m interested in mobile applications and algorithms.
-- 🌱 I’m currently working on serverless application development on Azure with C#.
+- 🌱 I’m currently working on web applications.
 - 💞️ I’m looking to collaborate on any mobile or web application.
 - 📫 How to reach me: ajirie98@gmail.com.
 
