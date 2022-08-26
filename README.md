@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Algure
 - 👀 I’m interested in mobile applications and algorithms.
 - 🌱 I’m currently working on web applications.
-- 💞️ I’m looking to collaborate on any mobile or web application.
+- 💞️ I’m looking to enable builders ease the build process. 
 - 📫 How to reach me: ajirie98@gmail.com.
 
 Some fun projects I've been working on:
