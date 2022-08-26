@@ -5,7 +5,7 @@
 - 📫 How to reach me: ajirie98@gmail.com.
 
 Some fun projects I've been working on:
-- azstore: A flutter package to connect apps to flutter storage: https://github.com/Algure/azstore
+- Eazgrid: A flutter package to convert rows to grid : https://github.com/Algure/eazigrid
 - FollowMe: It's a funny one. It's a flutter web app to share your social media profiles...ironic really: https://github.com/Algure/Follow-Me
 - TalosHub: A flutter web app to share AI projects built with azure by students in my school: https://github.com/Algure/TalosHub
 - Cracker: Can you perform math operations on a string ? https://github.com/Algure/Cracker-
