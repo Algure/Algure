@@ -5,7 +5,7 @@
 - 📫 How to reach me: ajirie98@gmail.com.
 
 Some fun projects I've been working on:
-- Eazgrid: A Flutter package to convert rows to grid : https://github.com/Algure/eazigrid
+- [Eazigrid](https://github.com/Algure/eazigrid): A Flutter package to convert rows to grid
 <!---
 Algure/Algure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
