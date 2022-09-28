@@ -23,8 +23,8 @@ dimensions of parent widget.
 # [Flutter azstore](https://github.com/Algure/azstore)
 Flutter package to access azure storage options via REST APIs.
 
-
-
+# [Serving Flutter Web Applications with Flask](https://github.com/Algure/flask_flutter_server)
+Repository for article explaining how to setup a Flask application to serve Flutter web builds.
 <!---
 Algure/Algure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
