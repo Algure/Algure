@@ -17,6 +17,8 @@ a callback is triggered. A callback is also triggered when the pointer (user fin
 
 ![EAZI GRID](https://user-images.githubusercontent.com/37802577/186935121-319f3f03-c356-4a95-8a54-1e2f2768f410.png)
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/37802577/187007067-23ef244f-4e4d-4cd1-8942-5187c88e3a99.gif)
+
 Easy dynamic Flutter row to list/grid package. Starts out as a row and resizes to a grid - scaling to
 dimensions of parent widget.
 
